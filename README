@@ -1,0 +1,11 @@
+Beth Boose
+project 1
+
+Options: 
+-t N days   print alastlog records more recent than N days
+-u USER     print alastlog record for USER
+-f FILENAME print alastlog records from FILENAME
+-h          print usage
+
+
+

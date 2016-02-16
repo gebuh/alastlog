@@ -1,0 +1,36 @@
+
+
+CSCI-E28 PROJECT 1 alastlog
+Beth Boose
+
+PURPOSE
+Implement a subset of unix lastlog command specifically:
+alastlog -u <username>|range<username> displays last login information for one 
+	 or more curently logged in login name/userid, range can specify 
+	 min-max UID values. If selected users were never logged in
+	 this will be displayed instead of port and time 
+	 
+alastlog -t <N> displays last login information for N users identical 
+	 to lastlog -t N
+alastlog -f <filename> specify alternate location for last login information, 
+  	 works with -u -t to return  
+
+
+DATA STRUCTURES
+
+
+
+
+
+
+MAIN FUNCTIONAL UNITS
+
+
+
+
+ERROR CONDITIONS
+
+
+
+
+MISC
